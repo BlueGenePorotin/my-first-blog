@@ -25,7 +25,7 @@ SECRET_KEY = 'uy6w!yizh=vm@xdrt&q#v**&05p&rs3mr44p+q-!vz^dibm2mm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =['jstao.pythonanywhere.com']
+ALLOWED_HOSTS =['jstao.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
